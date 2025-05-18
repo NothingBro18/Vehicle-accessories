@@ -13,7 +13,7 @@ export function Footer() {
       }`}
     >
       <footer className="py-1">
-        <p>Made with ❤️ by Junaid</p>
+        <p>Made with Sujal and Narsu</p>
         <div className="social-links">
           <a href="https://twitter.com/junaidshaikh_js" className="mr-sm">
             <FaTwitterSquare fontSize="1.5rem" />

@@ -1,2 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+  ignore = "echo 'No ignore'"
+
 [build.environment]
   NODE_VERSION = "18.17.1"
+  NETLIFY_USE_YARN = "true"
+  CI = "false"
